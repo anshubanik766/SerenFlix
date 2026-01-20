@@ -1,0 +1,72 @@
+[
+  {
+    "id": "night_of_the_living_dead",
+    "title": "Night of the Living Dead",
+    "year": 1968,
+    "license": "Public Domain",
+    "url": "https://archive.org/details/night_of_the_living_dead"
+  },
+  {
+    "id": "metropolis",
+    "title": "Metropolis",
+    "year": 1927,
+    "license": "Public Domain",
+    "url": "https://archive.org/details/metropolis_1927"
+  },
+  {
+    "id": "nosferatu",
+    "title": "Nosferatu",
+    "year": 1922,
+    "license": "Public Domain",
+    "url": "https://archive.org/details/Nosferatu1922"
+  },
+  {
+    "id": "the_general",
+    "title": "The General",
+    "year": 1926,
+    "license": "Public Domain",
+    "url": "https://archive.org/details/TheGeneral1926"
+  },
+  {
+    "id": "the_kid",
+    "title": "The Kid",
+    "year": 1921,
+    "license": "Public Domain",
+    "url": "https://archive.org/details/the-kid-1921"
+  },
+  {
+    "id": "sherlock_jr",
+    "title": "Sherlock Jr.",
+    "year": 1924,
+    "license": "Public Domain",
+    "url": "https://archive.org/details/SherlockJr1924"
+  },
+  {
+    "id": "safety_last",
+    "title": "Safety Last!",
+    "year": 1923,
+    "license": "Public Domain",
+    "url": "https://archive.org/details/safety-last-1923"
+  },
+  {
+    "id": "a_trip_to_the_moon",
+    "title": "A Trip to the Moon",
+    "year": 1902,
+    "license": "Public Domain",
+    "url": "https://archive.org/details/LeVoyageDansLaLune"
+  },
+  {
+    "id": "phantom_of_the_opera",
+    "title": "The Phantom of the Opera",
+    "year": 1925,
+    "license": "Public Domain",
+    "url": "https://archive.org/details/phantom_of_the_opera_1925"
+  },
+  {
+    "id": "his_girl_friday_pd",
+    "title": "His Girl Friday",
+    "year": 1940,
+    "license": "Public Domain (disputed, commonly used)",
+    "url": "https://archive.org/details/his-girl-friday-1940"
+  }
+]
